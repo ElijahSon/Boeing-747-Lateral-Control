@@ -1,0 +1,75 @@
+# =========================
+# MATLAB / Simulink
+# =========================
+
+# Autosave / recovery
+*.asv
+*.autosave
+*.slxc
+*.mex*
+*.mexa64
+*.mexw64
+*.mexmaci64
+
+# Simulink generated code/cache
+slprj/
+sccprj/
+simulink_cache/
+*.rtw
+*.tmf
+*.bak
+
+# MATLAB preferences / logs
+matlab_crash_dump.*
+hs_err_pid*
+*.log
+
+# Simulink test / coverage artifacts
+coverage/
+slcoverage/
+
+# Generated simulation outputs
+*.mat
+*.dat
+
+# Optional: large export files
+*.csv
+*.xlsx
+
+# =========================
+# OS files
+# =========================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# =========================
+# VS Code
+# =========================
+
+.vscode/
+
+# =========================
+# JetBrains
+# =========================
+
+.idea/
+
+# =========================
+# Python (if co-simulation/scripts)
+# =========================
+
+__pycache__/
+*.pyc
+
+# =========================
+# Build folders
+# =========================
+
+build/
+dist/
+out/
