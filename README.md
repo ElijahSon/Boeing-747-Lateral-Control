@@ -1,1 +1,5 @@
 # Boeing-747-Lateral-Control
+
+Analysis of the Boeing 747’s lateral control provides a fascinating insight into the sophisticated control systems used in one of commercial aviation’s most iconic aircraft. The Boeing 747, also known as the "Jumbo Jet", was first introduced in the 1970s and has since evolved to become a major pillar of global air transport. Its impressive wingspan and capacity to carry a large number of passengers has been supported by significant advances in the design of control systems, particularly in the field of lateral control.
+
+The analysis of the Boeing 747 lateral control looks at the control surfaces, rudder systems and feedback technologies that ensure stability, maneuverability and safety. This includes the study of ailerons, spoilers, stability augmentation systems, and automatic flight control mechanisms that allow the 747 to maintain a precise trajectory, to react to changes in wind and provide a comfortable flight experience for passengers.
