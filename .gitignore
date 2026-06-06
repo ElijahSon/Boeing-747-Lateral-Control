@@ -1,0 +1,49 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.mex*
+*.slxc
+*.sldd
+*.slprj/
+*.slxc
+*.mlappinstall
+*.mlpkginstall
+*.prj
+
+# MATLAB cache and reports
+codegen/
+html/
+reports/
+resources/project/
+
+# Simulink and generated build outputs
+*_ert_rtw/
+*_grt_rtw/
+*_rtw/
+*.mk
+*.obj
+*.o
+*.dll
+*.exe
+
+# Figures and temporary exports
+*.fig
+*.eps
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local environment files
+.env
+.env.*
+*.local
